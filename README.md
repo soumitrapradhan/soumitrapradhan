@@ -237,7 +237,7 @@ responsible, permission-based security testing.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumitrapradhan&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9" height="165" alt="Most Used Languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=soumitrapradhan&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=C9D1D9&dates=8B949E" width="95%" alt="GitHub Contribution Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=soumitrapradhan&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakNum=39FF14&sideNums=FFFFFF&currStreakLabel=39FF14&sideLabels=C9D1D9&dates=8B949E" width="95%" alt="GitHub Contribution Streak"/>
 
 ### Contribution Graph
 
