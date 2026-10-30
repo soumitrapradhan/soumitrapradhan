@@ -30,11 +30,9 @@
   <img src="https://img.shields.io/badge/ETHICS-Authorized%20Testing-39FF14?style=flat-square&labelColor=0D1117" alt="Authorized Testing"/>
   <img src="https://img.shields.io/badge/STATUS-Always%20Learning-39FF14?style=flat-square&labelColor=0D1117" alt="Always Learning"/>
 </p>
-
 <p>
   <img src="signal.gif" width="800" alt="Signal live terminal animation"/>
 </p>
-
 <p>
   <a href="https://github.com/soumitrapradhan">
     <img src="https://img.shields.io/badge/GitHub-soumitrapradhan-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
