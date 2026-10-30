@@ -17,7 +17,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:050505,50:071A0B,100:050505&text=SOUMITRA%20PRADHAN&fontColor=39FF14&fontSize=38&fontAlignY=48&desc=ETHICAL%20HACKING%20%7C%20OFFENSIVE%20SECURITY%20%7C%20VAPT&descSize=12&descAlignY=70&animation=fadeIn" width="100%" alt="Soumitra Pradhan Cybersecurity Banner"/>
 
-# `Soumitra Pradhan`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=900&color=39FF14&center=true&vCenter=true&width=850&height=65&lines=%3E+whoami+%3A+Soumitra+Pradhan;%3E+Ethical+Hacker+in+Progress...;%3E+Initializing+Cybersecurity+Journey...;%3E+Exploring+Offensive+Security...;%3E+Learn.+Practice.+Secure." />
+
+<br/>
 
 ### Ethical Hacking | Offensive Security | VAPT
 
@@ -40,6 +42,8 @@
   <a href="https://tryhackme.com/p/Shadowsoumitra">
     <img src="https://img.shields.io/badge/TryHackMe-My%20Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile"/>
   </a>
+ <a href="https://www.credly.com/users/soumitra-pradhan.c813ef59"><img src="https://img.shields.io/badge/Credly-Credentials-FF6B00?style=for-the-badge&logo=credly" alt="Credly"/></a>
+
 </p>
 
 </div>
